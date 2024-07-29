@@ -48,8 +48,6 @@ function usage {
                 A debug flag has been provided to enable script execution in debug mode. This is done
                 to allow troubleshooting in case of issues with the script.
 
-            $(arguments)
-
             EXIT STATUS CODES:
                 Exit code 0  Success.
 
